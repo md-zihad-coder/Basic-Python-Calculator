@@ -10,7 +10,7 @@ This lightweight Python command-line calculator brings basic arithmetic straight
 
 ## 🛠️ Prerequisites
 Before running this project, ensure you have the following installed on your machine:
-* Python 3.x
+* Python 3.14
 
 ## 🚀 How to Run the Project
 Follow these simple steps to run the calculator on your local machine:
